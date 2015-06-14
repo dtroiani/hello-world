@@ -1,3 +1,6 @@
 ﻿questo è il primo file.
 Ho finito, ora vi saluto.
 Ops, mi ero dimenticato di impostare il formato in UTF-8
+
+Modifica in locale, speriamo che nessuno cambi lo stesso file da remoto.
+Ciao!
