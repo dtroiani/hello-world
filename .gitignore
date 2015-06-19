@@ -1,1 +1,3 @@
-*.log
+﻿*.log
+build/
+temp-*
